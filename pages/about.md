@@ -19,7 +19,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The template repository features 21 objects by Kye Beulah showcasing her programs led and displays created while working in a public library.
+This site features 21 objects by Kye Beulah showcasing her programs and displays created while working in a public library.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
